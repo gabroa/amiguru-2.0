@@ -326,7 +326,7 @@ footer .redes-sociais a:hover {
 /* Media Queries para dispositivos móveis e tablets */
 
 /* Para tablets: telas entre 641px e 1023px */
-@media screen and (min-width: 641px) and (max-width: 1023px) {
+@media screen and (min-width: 641px) and (max-width: 1366px) {
     header .container {
         flex-direction: row;
         justify-content: space-between;
@@ -361,6 +361,7 @@ footer .redes-sociais a:hover {
 
     .container-s {
         font-size: 28px;
+        margin-top: 100px;
     }
 
     #sobre img {
@@ -412,6 +413,7 @@ footer .redes-sociais a:hover {
 
     .container-s {
         font-size: 24px;
+        margin-top: 90px;
     }
 
     #sobre img {
